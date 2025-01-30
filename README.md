@@ -7,6 +7,6 @@
 * [Paper-Rock-Scissors_game.r](https://github.com/Ozixyh/Project/blob/main/Paper-Rock-Scissors_game.r)
 
 ### SQL 
-* [restaurent.sql](https://github.com/Ozixyh/Project/blob/main/restaurent.sql)
+* [Systemrestaurant.sql](https://github.com/Ozixyh/Project/blob/main/restaurent.sql)
 
 
